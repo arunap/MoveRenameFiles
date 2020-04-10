@@ -1,0 +1,10 @@
+D:\Personal\RenameFiles\bin\Debug\netcoreapp3.1\RenameFiles.exe
+D:\Personal\RenameFiles\bin\Debug\netcoreapp3.1\RenameFiles.deps.json
+D:\Personal\RenameFiles\bin\Debug\netcoreapp3.1\RenameFiles.runtimeconfig.json
+D:\Personal\RenameFiles\bin\Debug\netcoreapp3.1\RenameFiles.runtimeconfig.dev.json
+D:\Personal\RenameFiles\bin\Debug\netcoreapp3.1\RenameFiles.dll
+D:\Personal\RenameFiles\bin\Debug\netcoreapp3.1\RenameFiles.pdb
+D:\Personal\RenameFiles\obj\Debug\netcoreapp3.1\RenameFiles.AssemblyInfoInputs.cache
+D:\Personal\RenameFiles\obj\Debug\netcoreapp3.1\RenameFiles.AssemblyInfo.cs
+D:\Personal\RenameFiles\obj\Debug\netcoreapp3.1\RenameFiles.dll
+D:\Personal\RenameFiles\obj\Debug\netcoreapp3.1\RenameFiles.pdb
